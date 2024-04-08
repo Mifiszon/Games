@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708964166 source:c:\users\pc1\onedrive\desktop\rps\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
