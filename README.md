@@ -6,6 +6,7 @@ This repository contains a collection of simple games programmed in various tech
 
 - **Rock Paper Scissors (Console)** – A classic game where the player chooses rock, paper, or scissors against the computer. The game determines the winner based on standard rules.
 - **Snake**
+- **Flappy Bird AI**
 
 More games will be added soon!
 
